@@ -1,4 +1,8 @@
 {
   "promptDelete": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "tabSize": 4,
+  "autoConvertHtml": false,
+  "spellcheck": false,
+  "readableLineLength": false
 }

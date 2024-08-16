@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "14147d627ae53037",
+  "active": "d4f2732d90f233f5",
   "lastOpenFiles": [
     "CSS.md",
     "file/images/таблица свойств.png",

@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FFB6C1",
+                "query": "tag:#head",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "eedcc22d861e2278",
+  "active": "14147d627ae53037",
   "lastOpenFiles": [
     "CSS.md",
     "HTMP.md",
